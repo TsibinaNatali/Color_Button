@@ -36,4 +36,4 @@ btn.pack(pady=10)
 canvas = Canvas(root, width=200,height=100)
 canvas.pack()
 rect = canvas.create_rectangle(5,5,195,95, fill="white")
-root.mainloop()
+root.mainloop()с
